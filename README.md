@@ -2,7 +2,7 @@
 
 This project is focused on developing a robust, scalable, and efficient rail defect detection system using acoustic data. The system leverages state-of-the-art technologies for data processing, machine learning, and real-time monitoring to ensure the reliability and safety of railway tracks.
 
-![audio_waveform](https://github.com/user-attachments/assets/fed6236f-4d5b-45a5-9a83-0a2db4964cc8)
+![audio_waveform](https://github.com/user-attachments/assets/17cb13e4-343a-4d15-8458-fe5ac04d8371)
 
 ![spectogram_of_no_crack_in_track](https://github.com/user-attachments/assets/28b92872-498d-4b64-b7c8-10b363acb944)
 
